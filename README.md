@@ -27,7 +27,7 @@
 1. ### Clone the Repository
 
 ```bash
-git clone https://github.com/Onesmus123/Task-List-App.git
+git clone https://github.com/Alois117/-Checkpoint-Debugging-React.git
 cd TaskList Project
 
 ```
